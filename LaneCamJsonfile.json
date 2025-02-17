@@ -1,0 +1,354 @@
+[
+  {
+    "Lane": 1,
+    "Cameras": [
+        {
+            "Name": "License",
+            "IP": "10.100.203.128",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-01 Gi1/2",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.161/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Chassis",
+            "IP": "10.100.203.129",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-01 Gi1/3",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.129/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Container",
+            "IP": "10.100.203.130",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-01 Gi1/4",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.130/index.html?Language=0&ViewMode=pull"
+        }
+    ]
+  },
+  {
+    "Lane": 2,
+    "Cameras": [
+        {
+            "Name": "License",
+            "IP": "10.100.203.131",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-01 Gi1/8",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.131/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Chassis",
+            "IP": "10.100.203.132",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-01 Gi1/9",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.132/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Container",
+            "IP": "10.100.203.133",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-01 Gi1/10",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.133/index.html?Language=0&ViewMode=pull"
+        }
+    ]
+  }
+  {
+	  "Lane": 3
+	  "Cameras":[
+        {
+            "Name": "License",
+            "IP": "10.100.203.134",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-01 Gi1/12",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.134/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Chassis",
+            "IP": "10.100.203.135",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-01 Gi1/14",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.135/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Container",
+            "IP": "10.100.203.136",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-01 Gi1/15",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.136/index.html?Language=0&ViewMode=pull"
+        }
+	  ]
+  }
+  {
+	  "Lane": 4
+	  "Cameras":[
+        {
+            "Name": "License",
+            "IP": "10.100.203.137",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-01 Gi1/22",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.137/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Chassis",
+            "IP": "10.100.203.138",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-01 Gi1/26",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.138/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Container",
+            "IP": "10.100.203.139",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-01 Gi1/35",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.139/index.html?Language=0&ViewMode=pull"
+        }
+	  ]
+  }
+  {	  
+  	  "Lane": 5
+	  "Cameras":[
+        {
+            "Name": "License",
+            "IP": "10.100.203.140",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-01 Gi1/40",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.140/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Chassis",
+            "IP": "10.100.203.141",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-01 Gi1/43",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.141/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Container",
+            "IP": "10.100.203.142",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/1",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.142/index.html?Language=0&ViewMode=pull"
+        }
+	  ]
+  }
+  {
+	  "Lane": 6
+	  "Cameras":[
+        {
+            "Name": "License",
+            "IP": "10.100.203.143",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/2",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.143/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Chassis",
+            "IP": "10.100.203.144",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/5",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.144/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Container",
+            "IP": "10.100.203.145",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/9",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.145/index.html?Language=0&ViewMode=pull"
+        }
+	  ]
+  }
+  {	  
+  	  "Lane": 7
+	  "Cameras":[
+        {
+            "Name": "License",
+            "IP": "10.100.203.161",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/10",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.161/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Chassis",
+            "IP": "10.100.203.162",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/11",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.162/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Container",
+            "IP": "10.100.203.163",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/12",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.163/index.html?Language=0&ViewMode=pull"
+        }
+	  ]
+  }
+  {
+	  	  "Lane": 21
+	  "Cameras":[
+        {
+            "Name": "License",
+            "IP": "10.100.203.164",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/13",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.164/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Chassis",
+            "IP": "10.100.203.165",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/14",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.165/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Container",
+            "IP": "10.100.203.166",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/15",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.166/index.html?Language=0&ViewMode=pull"
+        }
+	  ]
+  }
+  {
+	  	  "Lane": 22
+	  "Cameras":[
+        {
+            "Name": "License",
+            "IP": "10.100.203.167",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/16",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.167/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Chassis",
+            "IP": "10.100.203.168",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/17",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.168/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Container",
+            "IP": "10.100.203.169",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/18",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.169/index.html?Language=0&ViewMode=pull"
+        }
+	  ]
+  }
+  {
+	  	  "Lane": 23
+	  "Cameras":[
+        {
+            "Name": "License",
+            "IP": "10.100.203.170",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/19",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.170/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Chassis",
+            "IP": "10.100.203.171",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/20",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.171/index.html?Language=0&ViewMode=pull"
+        },
+      {
+        "Name": "Container",
+        "IP": "10.100.203.172",
+        "Switch": "Cy1",
+        "Switch Port": "T6CYG1A-ACC01-02 Gi2/21",
+        "Patch Panel": "A3G25",
+        "MidSpan": "IPCamPower",
+        "Url": "http://10.100.203.172/index.html?Language=0&ViewMode=pull"
+      }
+	  ]
+  }
+  {
+	  	  "Lane": 24
+	  "Cameras":[
+        {
+            "Name": "License",
+            "IP": "10.100.203.173",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/22",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.173/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Chassis",
+            "IP": "10.100.203.174",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/23",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.174/index.html?Language=0&ViewMode=pull"
+        },
+        {
+            "Name": "Container",
+            "IP": "10.100.203.175",
+            "Switch": "Cy1",
+            "Switch Port": "T6CYG1A-ACC01-02 Gi2/24",
+            "Patch Panel": "A3G25",
+            "MidSpan": "IPCamPower",
+            "Url": "http://10.100.203.175/index.html?Language=0&ViewMode=pull"
+        }
+	  ]
+  }
+  {
